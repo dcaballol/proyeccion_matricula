@@ -2,6 +2,7 @@ streamlit
 prophet
 matplotlib
 pandas
+rarfile
 openpyxl
 python-docx
 plotly
