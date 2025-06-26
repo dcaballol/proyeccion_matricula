@@ -1,7 +1,7 @@
 # Proyección de Matrícula Escolar y Tasa de Escolarización
 Panel interactivo en Streamlit para estimar, visualizar y descargar proyecciones de matrícula escolar mensual y anual, comparadas con la proyección demográfica por comuna, grado y establecimiento (RBD), incluyendo el cálculo de tasa de escolarización.
 
-Características
+###Características
 Proyección de matrícula mensual por comuna, RBD y grado, hasta 2027 (resto 2025, 2026, 2027).
 
 Totales anuales automáticos por combinación.
@@ -17,7 +17,7 @@ Descarga de informes Word masivos por cada combinación seleccionada, con gráfi
 Metodología clara y documentada.
 
 
-Metodología
+###Metodología
 Proyección de matrícula:
 
 Se utiliza Prophet para modelar y proyectar la matrícula mensual por cada combinación de comuna, RBD y grado.
